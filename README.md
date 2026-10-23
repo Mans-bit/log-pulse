@@ -26,5 +26,5 @@ go run main.go
 
 3. Откройте в браузере страницу с метриками:
 ```text
-http://localhost:8080/api/v1/status
+http://localhost:8080
 ```
